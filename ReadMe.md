@@ -1,8 +1,15 @@
+   
+## <center>Hi 👋 I'm Rahul Berry</center>
+
+
 # 💫 About Me:
 I am a third year Bachelor of science student at university of Toronto. Extremely passionate about the possibilities of programming, machine learning, and building useful applications. 
 
-# 🔭 What I’m currently working on:
-Exploring SVM Machine Learning Models <br>Full Stack Projects to expand the portfolio using MERN and other popular developer tools<br>Building SpringBoot Applications using SQL <br>Creating an online portfolio to display personal projects using react 
+# 🚀 What I’m currently working on:
+🤖 - Exploring SVM Machine Learning Models <br>
+💻 - Full Stack Projects to expand the portfolio using MERN and other popular developer tools<br>
+🟢 - Building SpringBoot Applications using SQL <br>
+💼 - Creating an online portfolio to display personal projects using react 
 
 
 # 💻 Tech Stack:
