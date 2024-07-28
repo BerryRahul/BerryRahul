@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I am a third year Bachelor of science student at university of Toronto. Extremely passionate about the possibilities of programming, machine learning, and building useful applications. 
+I am a third year Bachelor of Science Student at University of Toronto. Extremely passionate about the possibilities of programming, machine learning, and building useful applications. 
 
 # 🚀 What I’m currently working on:
 🤖 - Exploring SVM Machine Learning Models <br>
