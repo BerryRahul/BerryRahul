@@ -3,7 +3,10 @@
 
 
 # 💫 About Me:
-I am a third year Bachelor of Science Student at University of Toronto. Extremely passionate about the possibilities of programming, machine learning, and building useful applications. 
+I am a third year Bachelor of Science Student at University of Toronto. Extremely passionate about the possibilities of programming, machine learning, and building useful applications.
+
+## :globe_with_meridians: Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahulberry/) 
 
 # 🚀 What I’m currently working on:
 🤖 - Exploring Front-End Development <br>
