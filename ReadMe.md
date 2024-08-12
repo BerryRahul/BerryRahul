@@ -9,8 +9,8 @@ I am a third year Bachelor of Science Student at University of Toronto. Extremel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulberry/) 
 
 # 🚀 What I’m currently working on:
-🤖 - Exploring Front-End Development <br>
-💻 - Implementing Sull Stack Projects using popular tech stacks like MERN <br>
+🤖 - Exploring Full Stack Development <br>
+💻 - Implementing Full Stack Projects using popular tech stacks like MERN <br>
 🟢 - Learning REST API's and Authentication with backend frameworks such as Springboot and Express  <br>
 💼 - Creating an Portfolio to display personal projects using React
 
