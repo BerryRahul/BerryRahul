@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I am a third year Bachelor of Science Student at University of Toronto. Extremely passionate about the possibilities of programming, machine learning, and building useful applications.
+I am a Bachelor of Science Student at University of Toronto. Extremely passionate about the possibilities of programming, machine learning, and building useful applications.
 
 ## :globe_with_meridians: Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulberry/) 
@@ -12,7 +12,6 @@ I am a third year Bachelor of Science Student at University of Toronto. Extremel
 🤖 - Exploring Full Stack Development <br>
 💻 - Implementing Full Stack Projects using popular tech stacks like MERN <br>
 🟢 - Learning REST API's and Authentication with backend frameworks such as Springboot and Express  <br>
-💼 - Creating an Portfolio to display personal projects using React
 
 
 # 💻 Tech Stack:
